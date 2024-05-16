@@ -99,3 +99,4 @@ Pixel at row 5, col 0 for M on 2024-05-14T00:00:00.000Z
 Pixel at row 5, col 2 for M on 2024-05-28T00:00:00.000Z
 Pixel at row 6, col 0 for M on 2024-05-15T00:00:00.000Z
 Pixel at row 6, col 2 for M on 2024-05-29T00:00:00.000Z
+Pixel at row 7, col 0 for M on 2024-05-16T00:00:00.000Z
