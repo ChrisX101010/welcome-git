@@ -7,3 +7,4 @@ Pixel at row 2, col 0 for W on 2024-05-11T00:00:00.000Z
 Pixel at row 2, col 1 for W on 2024-05-18T00:00:00.000Z
 Pixel at row 2, col 2 for W on 2024-05-25T00:00:00.000Z
 Pixel at row 3, col 0 for W on 2024-05-12T00:00:00.000Z
+Pixel at row 3, col 2 for W on 2024-05-26T00:00:00.000Z
