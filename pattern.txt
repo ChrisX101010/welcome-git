@@ -115,3 +115,4 @@ Pixel at row 4, col 12 for P on 2024-08-05T00:00:00.000Z
 Pixel at row 4, col 14 for P on 2024-08-19T00:00:00.000Z
 Pixel at row 5, col 12 for P on 2024-08-06T00:00:00.000Z
 Pixel at row 5, col 13 for P on 2024-08-13T00:00:00.000Z
+Pixel at row 5, col 14 for P on 2024-08-20T00:00:00.000Z
