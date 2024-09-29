@@ -130,3 +130,4 @@ Pixel at row 6, col 16 for R on 2024-09-04T00:00:00.000Z
 Pixel at row 6, col 18 for R on 2024-09-18T00:00:00.000Z
 Pixel at row 7, col 16 for R on 2024-09-05T00:00:00.000Z
 Pixel at row 7, col 18 for R on 2024-09-19T00:00:00.000Z
+Pixel at row 3, col 20 for O on 2024-09-29T00:00:00.000Z
