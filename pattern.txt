@@ -137,3 +137,4 @@ Pixel at row 4, col 20 for O on 2024-09-30T00:00:00.000Z
 Pixel at row 4, col 22 for O on 2024-10-14T00:00:00.000Z
 Pixel at row 5, col 20 for O on 2024-10-01T00:00:00.000Z
 Pixel at row 5, col 22 for O on 2024-10-15T00:00:00.000Z
+Pixel at row 6, col 20 for O on 2024-10-02T00:00:00.000Z
