@@ -57,3 +57,4 @@ Pixel at row 1, col 22 for M on 2024-10-11T00:00:00.000Z
 Pixel at row 2, col 20 for M on 2024-09-28T00:00:00.000Z
 Pixel at row 2, col 22 for M on 2024-10-12T00:00:00.000Z
 Pixel at row 3, col 20 for M on 2024-09-29T00:00:00.000Z
+Pixel at row 3, col 22 for M on 2024-10-13T00:00:00.000Z
