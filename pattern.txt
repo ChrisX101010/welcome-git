@@ -63,3 +63,4 @@ Pixel at row 4, col 22 for M on 2024-10-14T00:00:00.000Z
 Pixel at row 0, col 24 for E on 2024-10-24T00:00:00.000Z
 Pixel at row 0, col 25 for E on 2024-10-31T01:00:00.000Z
 Pixel at row 0, col 26 for E on 2024-11-07T01:00:00.000Z
+Pixel at row 1, col 24 for E on 2024-10-25T00:00:00.000Z
